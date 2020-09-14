@@ -1,0 +1,2993 @@
+{
+  "globalObjects": {
+    "users": {
+      "1178549771604242432": {
+        "id": 1178549771604242432,
+        "id_str": "1178549771604242432",
+        "name": "Brad Prick",
+        "screen_name": "BradPrick",
+        "location": null,
+        "description": "Nothing here that\u2019ll help you win the argument. You better think. Follow me for tech opinions and bilingual commentary (aka \u201chate\u201d according to little boys).",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 106,
+        "listed_count": 1,
+        "created_at": "Mon Sep 30 05:59:03 +0000 2019",
+        "favourites_count": 2944,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2256,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1178551921533243392\/uA7MYvG7_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1178551921533243392\/uA7MYvG7_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1178549771604242432\/1569823657",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "16073810": {
+        "id": 16073810,
+        "id_str": "16073810",
+        "name": "Darrius Taylor",
+        "screen_name": "Double_Are",
+        "location": "Virgina",
+        "description": "Creative Technologist & UX Designer for @capitalone. \nCurrently D.C. living. My apartment stays at 80 degs because I miss the south.",
+        "url": "http:\/\/darriustaylor.com",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/darriustaylor.com",
+              "expanded_url": "http:\/\/darriustaylor.com",
+              "display_url": "darriustaylor.com",
+              "indices": [0, 24]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 441,
+        "friends_count": 1033,
+        "listed_count": 31,
+        "created_at": "Mon Sep 01 01:32:57 +0000 2008",
+        "favourites_count": 1783,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11999,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1055433774622760960\/xDlEQc9V_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1055433774622760960\/xDlEQc9V_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/16073810\/1521493170",
+        "profile_link_color": "610909",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "2916839885": {
+        "id": 2916839885,
+        "id_str": "2916839885",
+        "name": "Vinay Sharma",
+        "screen_name": "vinaysharma1996",
+        "location": "AECS Layout, Bengaluru",
+        "description": null,
+        "url": "http:\/\/youtube.com\/Travestellar",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/youtube.com\/Travestellar",
+              "expanded_url": "http:\/\/youtube.com\/Travestellar",
+              "display_url": "youtube.com\/Travestellar",
+              "indices": [0, 31]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 129,
+        "friends_count": 569,
+        "listed_count": 1,
+        "created_at": "Fri Dec 12 04:07:20 +0000 2014",
+        "favourites_count": 15903,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1571,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/961174710254841856\/TrA6WiAJ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/961174710254841856\/TrA6WiAJ_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2916839885\/1513152464",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "724121768": {
+        "id": 724121768,
+        "id_str": "724121768",
+        "name": "HEART OF TROY",
+        "screen_name": "troyofheart",
+        "location": "Mississippi \u2022 United Kingdom",
+        "description": "music + design \/\/ @childlikesound \u2022 @helendevelops",
+        "url": "https:\/\/www.gofundme.com\/f\/help-princess-rebuild",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https:\/\/www.gofundme.com\/f\/help-princess-rebuild",
+              "expanded_url": "https:\/\/www.gofundme.com\/f\/help-princess-rebuild",
+              "display_url": "gofundme.com\/f\/help-princes\u2026",
+              "indices": [0, 48]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1084,
+        "friends_count": 387,
+        "listed_count": 9,
+        "created_at": "Sun Jul 29 14:48:16 +0000 2012",
+        "favourites_count": 15027,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1302659273709715456\/YCfjsnrS_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1302659273709715456\/YCfjsnrS_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/724121768\/1556064512",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": true
+      },
+      "1221572875221520384": {
+        "id": 1221572875221520384,
+        "id_str": "1221572875221520384",
+        "name": "yes",
+        "screen_name": "nowayjose3211",
+        "location": null,
+        "description": null,
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 37,
+        "listed_count": 0,
+        "created_at": "Sun Jan 26 23:17:29 +0000 2020",
+        "favourites_count": 3317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 741,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1223422623188574208\/kANyznUf_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1223422623188574208\/kANyznUf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "98798905": {
+        "id": 98798905,
+        "id_str": "98798905",
+        "name": "I love you",
+        "screen_name": "drunkleJ",
+        "location": "Colorado, USA",
+        "description": "Crosby, Stills, Nash, Young, Higgs, Bose, Dunning, and Krueger",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 76,
+        "friends_count": 227,
+        "listed_count": 1,
+        "created_at": "Wed Dec 23 04:49:40 +0000 2009",
+        "favourites_count": 4127,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2549,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1164201805716295682\/_17uiGN-_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1164201805716295682\/_17uiGN-_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/98798905\/1578530793",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "4807157819": {
+        "id": 4807157819,
+        "id_str": "4807157819",
+        "name": "\ud835\udc53\ud835\udc52\ud835\udc51\ud835\udc51\ud835\udc60\u30df\u2606",
+        "screen_name": "lovelycevans_",
+        "location": "Hogwarts\ud83d\udc0d(she\/her)",
+        "description": "\ua9c1 \ud835\ude99\ud835\ude8a\ud835\ude9b\ud835\ude9d \ud835\ude98\ud835\ude8f \ud835\ude9d\ud835\ude91\ud835\ude8e \ud835\ude93\ud835\ude98\ud835\ude9e\ud835\ude9b\ud835\ude97\ud835\ude8e\ud835\udea2 \ud835\ude92\ud835\ude9c \ud835\ude9d\ud835\ude91\ud835\ude8e \ud835\ude8e\ud835\ude97\ud835\ude8d. | \ud835\ude9d\ud835\ude9b\ud835\ude8e\ud835\ude8a\ud835\ude9d \ud835\ude99\ud835\ude8e\ud835\ude98\ud835\ude99\ud835\ude95\ud835\ude8e \ud835\udea0\ud835\ude92\ud835\ude9d\ud835\ude91 \ud835\ude94\ud835\ude92\ud835\ude97\ud835\ude8d\ud835\ude97\ud835\ude8e\ud835\ude9c\ud835\ude9c. | \ud835\ude71\ud835\ude7b\ud835\ude70\ud835\ude72\ud835\ude7a \ud835\ude7b\ud835\ude78\ud835\ude85\ud835\ude74\ud835\ude82 \ud835\ude7c\ud835\ude70\ud835\ude83\ud835\ude83\ud835\ude74\ud835\ude81 \ua9c2",
+        "url": "https:\/\/twitter.com\/lovelycevans_\/status\/1253770222986813449?s=21",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https:\/\/twitter.com\/lovelycevans_\/status\/1253770222986813449?s=21",
+              "expanded_url": "https:\/\/twitter.com\/lovelycevans_\/status\/1253770222986813449?s=21",
+              "display_url": "twitter.com\/lovelycevans_\/\u2026",
+              "indices": [0, 65]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5774,
+        "friends_count": 871,
+        "listed_count": 26,
+        "created_at": "Thu Jan 14 19:55:42 +0000 2016",
+        "favourites_count": 62885,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35795,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273920721182482438\/kd-3zi-Q_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273920721182482438\/kd-3zi-Q_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4807157819\/1592561343",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "1009736665538203648": {
+        "id": 1009736665538203648,
+        "id_str": "1009736665538203648",
+        "name": "mk2op @ 144hz",
+        "screen_name": "Mk2op2",
+        "location": null,
+        "description": "Tech enthusiast and airplane lover | \u2708\ufe0f+\ud83d\udcf1=\ud83d\ude0c",
+        "url": "http:\/\/Facebook.com\/amazingworldofgizmos",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/Facebook.com\/amazingworldofgizmos",
+              "expanded_url": "http:\/\/Facebook.com\/amazingworldofgizmos",
+              "display_url": "Facebook.com\/amazingworldof\u2026",
+              "indices": [0, 40]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 822,
+        "listed_count": 0,
+        "created_at": "Thu Jun 21 09:55:55 +0000 2018",
+        "favourites_count": 79,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1391,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1073114106796769281\/ahvrLqn4_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1073114106796769281\/ahvrLqn4_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1009736665538203648\/1544685317",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "19047593": {
+        "id": 19047593,
+        "id_str": "19047593",
+        "name": "Christian Hall",
+        "screen_name": "jchristianhall",
+        "location": "Nashville",
+        "description": "Senior Software Engineer @GoNoodle. We're all stories in the end.",
+        "url": "http:\/\/christianhall.me",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/christianhall.me",
+              "expanded_url": "http:\/\/christianhall.me",
+              "display_url": "christianhall.me",
+              "indices": [0, 23]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 240,
+        "friends_count": 121,
+        "listed_count": 19,
+        "created_at": "Fri Jan 16 00:41:44 +0000 2009",
+        "favourites_count": 2165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5718,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "141414",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1300857468176805888\/sfeca4uD_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1300857468176805888\/sfeca4uD_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/19047593\/1578006734",
+        "profile_link_color": "10427C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "050505",
+        "profile_text_color": "656565",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": true
+      },
+      "1050182327610036224": {
+        "id": 1050182327610036224,
+        "id_str": "1050182327610036224",
+        "name": "dry tolkien",
+        "screen_name": "MerriganTolkien",
+        "location": null,
+        "description": "SOAKED.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 162,
+        "listed_count": 0,
+        "created_at": "Thu Oct 11 00:32:33 +0000 2018",
+        "favourites_count": 1691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 742,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1284895534042546176\/VtTmTWJr_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1284895534042546176\/VtTmTWJr_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1050182327610036224\/1576638654",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "51632103": {
+        "id": 51632103,
+        "id_str": "51632103",
+        "name": "Sergeant Mnemonic",
+        "screen_name": "Sgt_Mnemonic",
+        "location": null,
+        "description": "It's all good.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 100,
+        "friends_count": 752,
+        "listed_count": 3,
+        "created_at": "Sun Jun 28 02:55:30 +0000 2009",
+        "favourites_count": 1217,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5500,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1224144354136092673\/xIHU_Hwm_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1224144354136092673\/xIHU_Hwm_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/51632103\/1364656832",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": true
+      },
+      "940345278325862400": {
+        "id": 940345278325862400,
+        "id_str": "940345278325862400",
+        "name": "Madre De Dios",
+        "screen_name": "SwiftyDashy",
+        "location": "Blood Gultch",
+        "description": "Dios Mio NOOOO",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Mon Dec 11 22:19:19 +0000 2017",
+        "favourites_count": 69,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1260405760174854144\/ixEntblk_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1260405760174854144\/ixEntblk_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/940345278325862400\/1589339080",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "1198088747750838272": {
+        "id": 1198088747750838272,
+        "id_str": "1198088747750838272",
+        "name": "JADE\u262d",
+        "screen_name": "glandolinian",
+        "location": "BLM ACAB, \u262d, \u24e5, theythem, 20",
+        "description": "hold accountable the architects of hopelessness and never ending violence",
+        "url": "http:\/\/letterboxd.com\/dirt5555",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/letterboxd.com\/dirt5555",
+              "expanded_url": "http:\/\/letterboxd.com\/dirt5555",
+              "display_url": "letterboxd.com\/dirt5555",
+              "indices": [0, 30]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 84,
+        "listed_count": 0,
+        "created_at": "Sat Nov 23 03:59:58 +0000 2019",
+        "favourites_count": 2359,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1394,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1283172064992522240\/65UulYQr_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1283172064992522240\/65UulYQr_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1198088747750838272\/1592196588",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "68026456": {
+        "id": 68026456,
+        "id_str": "68026456",
+        "name": "Paul Aldige Katz",
+        "screen_name": "napkatz",
+        "location": "Washington DC",
+        "description": "Software Architect and Product Manager. Windows Fan. VPNed so many places, I don't know where i am?!?!",
+        "url": "http:\/\/www.efficiencynext.com",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/www.efficiencynext.com",
+              "expanded_url": "http:\/\/www.efficiencynext.com",
+              "display_url": "efficiencynext.com",
+              "indices": [0, 29]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 164,
+        "listed_count": 20,
+        "created_at": "Sun Aug 23 00:33:43 +0000 2009",
+        "favourites_count": 623,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4967,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1292642756725280770\/aYiuvusI_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1292642756725280770\/aYiuvusI_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/68026456\/1597024491",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "15300655": {
+        "id": 15300655,
+        "id_str": "15300655",
+        "name": "Maxim Leyzerovich",
+        "screen_name": "round",
+        "location": "DC\/SF",
+        "description": "Product Design at @CapitalOne.\nFaculty at @MICA and @GA.\nPast @nclud & @RosettaStone.\n\n#BlackLivesMatter",
+        "url": "https:\/\/twitter.com\/intent\/tweet?text=@round%20when%20are%20you%20posting%20your%20updated%20portfolio%3f%21",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https:\/\/twitter.com\/intent\/tweet?text=@round%20when%20are%20you%20posting%20your%20updated%20portfolio%3f%21",
+              "expanded_url": "https:\/\/twitter.com\/intent\/tweet?text=@round%20when%20are%20you%20posting%20your%20updated%20portfolio%3f%21",
+              "display_url": "twitter.com\/intent\/tweet?t\u2026",
+              "indices": [0, 108]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21247,
+        "friends_count": 9993,
+        "listed_count": 846,
+        "created_at": "Wed Jul 02 18:54:41 +0000 2008",
+        "favourites_count": 681064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 188132,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CC00AA",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme17\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme17\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1039560999823654912\/pvj8gp0X_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1039560999823654912\/pvj8gp0X_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/15300655\/1521140496",
+        "profile_link_color": "EE00EE",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      },
+      "1022161088887042049": {
+        "id": 1022161088887042049,
+        "id_str": "1022161088887042049",
+        "name": "Mayor of Tchulahoma",
+        "screen_name": "uverneous",
+        "location": null,
+        "description": "Darius. 1\/3 of @TokenTalkTweets, Nerd, Air Fryer Nation, Jxn Native, Cream Cheese Connoisseur. RTs are pretty much endorsements. Most tweets = Satire",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": true,
+        "followers_count": 816,
+        "friends_count": 1679,
+        "listed_count": 4,
+        "created_at": "Wed Jul 25 16:46:09 +0000 2018",
+        "favourites_count": 30337,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17523,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1119165188651900929\/nhWIrM6j_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1119165188651900929\/nhWIrM6j_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1022161088887042049\/1597071744",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": true
+      },
+      "18020246": {
+        "id": 18020246,
+        "id_str": "18020246",
+        "name": "Erica B.",
+        "screen_name": "ericabuddington",
+        "location": "Uniondale, NY",
+        "description": "hoodstorian at @langstonleague.",
+        "url": "http:\/\/mostfireteacher.com",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/mostfireteacher.com",
+              "expanded_url": "http:\/\/mostfireteacher.com",
+              "display_url": "mostfireteacher.com",
+              "indices": [0, 26]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 31824,
+        "friends_count": 3250,
+        "listed_count": 264,
+        "created_at": "Wed Dec 10 14:39:57 +0000 2008",
+        "favourites_count": 37655,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 19552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme19\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme19\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1302273655641116673\/yeKgZjtQ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1302273655641116673\/yeKgZjtQ_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/18020246\/1598240825",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": true,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": true
+      },
+      "630022191": {
+        "id": 630022191,
+        "id_str": "630022191",
+        "name": "Vord Loldemort",
+        "screen_name": "MichaelLuqe",
+        "location": null,
+        "description": "I make weird music and i am weird. ilysmtiwa\ud83d\udc95",
+        "url": "https:\/\/fanlink.to\/luqu-chaos-media",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https:\/\/fanlink.to\/luqu-chaos-media",
+              "expanded_url": "https:\/\/fanlink.to\/luqu-chaos-media",
+              "display_url": "fanlink.to\/luqu-chaos-med\u2026",
+              "indices": [0, 35]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 608,
+        "friends_count": 439,
+        "listed_count": 3,
+        "created_at": "Sun Jul 08 05:48:29 +0000 2012",
+        "favourites_count": 5418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14731,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1303650862435241984\/OaPkh6P9_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1303650862435241984\/OaPkh6P9_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/630022191\/1598884565",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": null,
+        "notifications": null,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "profile_interstitial_type": "",
+        "translator_type": "none",
+        "followed_by": false
+      }
+    },
+    "tweets": {
+      "1260009636339408896": {
+        "created_at": "Tue May 12 00:51:21 +0000 2020",
+        "id": 1260009636339408896,
+        "id_str": "1260009636339408896",
+        "full_text": "@Double_Are @Sid_Pretends @dirt55555 @drunkleJ @dpkeysar @WH0AMILIVINGF0R @1600vlone @dumbest_of @echolman @Grimezsz Yeah just let them have THEIR fucking kid, so what if it's a weird name? They aren't hurting anyone by naming their own child.",
+        "truncated": false,
+        "display_text_range": [117, 243],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "Sid_Pretends",
+            "name": "squidly",
+            "id": 768254303760818176,
+            "id_str": "768254303760818176",
+            "indices": [12, 25]
+          }, {
+            "screen_name": "drunkleJ",
+            "name": "I love you",
+            "id": 98798905,
+            "id_str": "98798905",
+            "indices": [37, 46]
+          }, {
+            "screen_name": "dpkeysar",
+            "name": "Dylan Keysar",
+            "id": 951880773497389056,
+            "id_str": "951880773497389056",
+            "indices": [47, 56]
+          }, {
+            "screen_name": "1600vlone",
+            "name": "wokeuplikethis* \u00ae",
+            "id": 930175089190035458,
+            "id_str": "930175089190035458",
+            "indices": [74, 84]
+          }, {
+            "screen_name": "dumbest_of",
+            "name": "DumbestQuotesOfTheBois",
+            "id": 1265522916248170496,
+            "id_str": "1265522916248170496",
+            "indices": [85, 96]
+          }, {
+            "screen_name": "echolman",
+            "name": "Jackie Daytona",
+            "id": 35755347,
+            "id_str": "35755347",
+            "indices": [97, 106]
+          }, {
+            "screen_name": "Grimezsz",
+            "name": "\ud80c\udff2G\u211ci\uaa94\u20d5es \ud80c\udda4\u0b90",
+            "id": 276540738,
+            "id_str": "276540738",
+            "indices": [107, 116]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+        "in_reply_to_status_id": 1258658055987830786,
+        "in_reply_to_status_id_str": "1258658055987830786",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 940345278325862400,
+        "user_id_str": "940345278325862400",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 2,
+        "quote_count": 0,
+        "conversation_id": 1257836061520101377,
+        "conversation_id_str": "1257836061520101377",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1270789324540436487": {
+        "created_at": "Wed Jun 10 18:45:59 +0000 2020",
+        "id": 1270789324540436487,
+        "id_str": "1270789324540436487",
+        "full_text": "@Double_Are Oh no plz, I haven\u2019t cleared my browser history",
+        "truncated": false,
+        "display_text_range": [12, 59],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1270788457397354497,
+        "in_reply_to_status_id_str": "1270788457397354497",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1022161088887042049,
+        "user_id_str": "1022161088887042049",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1270788457397354497,
+        "conversation_id_str": "1270788457397354497",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1261417936868302850": {
+        "created_at": "Fri May 15 22:07:26 +0000 2020",
+        "id": 1261417936868302850,
+        "id_str": "1261417936868302850",
+        "full_text": "@Double_Are @imPatrickT @MKBHD I too got it after tweeting that haha didnt came back to update cause who cares, but tweet is valid! That was just a nasty-random new paragraph\ud83e\udd23",
+        "truncated": false,
+        "display_text_range": [31, 175],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "imPatrickT",
+            "name": "patrick.",
+            "id": 84256116,
+            "id_str": "84256116",
+            "indices": [12, 23]
+          }, {
+            "screen_name": "MKBHD",
+            "name": "Marques Brownlee",
+            "id": 29873662,
+            "id_str": "29873662",
+            "indices": [24, 30]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1261417653975109633,
+        "in_reply_to_status_id_str": "1261417653975109633",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1178549771604242432,
+        "user_id_str": "1178549771604242432",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1261315329604702211,
+        "conversation_id_str": "1261315329604702211",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1289731055964962816": {
+        "created_at": "Sun Aug 02 01:13:40 +0000 2020",
+        "id": 1289731055964962816,
+        "id_str": "1289731055964962816",
+        "full_text": "@Double_Are Japanese \ud83d\ude2c",
+        "truncated": false,
+        "display_text_range": [12, 22],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003eTweetbot for i\u039fS\u003c\/a\u003e",
+        "in_reply_to_status_id": 1289726082241855489,
+        "in_reply_to_status_id_str": "1289726082241855489",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 19047593,
+        "user_id_str": "19047593",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1289674581972676608,
+        "conversation_id_str": "1289674581972676608",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "et"
+      },
+      "1246471570245091329": {
+        "created_at": "Sat Apr 04 16:15:55 +0000 2020",
+        "id": 1246471570245091329,
+        "id_str": "1246471570245091329",
+        "full_text": "@Double_Are @brad_kalla @Hubbard76499906 @ConsLegras @givememybagnow @JosmerSuero @djfuelbass @theycallme_hc @Tom_Thomas_97 @MKBHD @oppo @htc @Xiaomi @Apple There are none. Zero.",
+        "truncated": false,
+        "display_text_range": [157, 178],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "brad_kalla",
+            "name": "Brad Kalla",
+            "id": 968292080865878016,
+            "id_str": "968292080865878016",
+            "indices": [12, 23]
+          }, {
+            "screen_name": "ConsLegras",
+            "name": "Zeeico",
+            "id": 3368842761,
+            "id_str": "3368842761",
+            "indices": [41, 52]
+          }, {
+            "screen_name": "givememybagnow",
+            "name": "guess who",
+            "id": 1147157930631991298,
+            "id_str": "1147157930631991298",
+            "indices": [53, 68]
+          }, {
+            "screen_name": "djfuelbass",
+            "name": "DJ FUELBASS",
+            "id": 2936203358,
+            "id_str": "2936203358",
+            "indices": [82, 93]
+          }, {
+            "screen_name": "Tom_Thomas_97",
+            "name": "Tom Thomas",
+            "id": 4317476653,
+            "id_str": "4317476653",
+            "indices": [109, 123]
+          }, {
+            "screen_name": "MKBHD",
+            "name": "Marques Brownlee",
+            "id": 29873662,
+            "id_str": "29873662",
+            "indices": [124, 130]
+          }, {
+            "screen_name": "oppo",
+            "name": "OPPO",
+            "id": 960653964,
+            "id_str": "960653964",
+            "indices": [131, 136]
+          }, {
+            "screen_name": "htc",
+            "name": "HTC",
+            "id": 15818391,
+            "id_str": "15818391",
+            "indices": [137, 141]
+          }, {
+            "screen_name": "Xiaomi",
+            "name": "Xiaomi",
+            "id": 377228272,
+            "id_str": "377228272",
+            "indices": [142, 149]
+          }, {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [150, 156]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": 1246470240353112065,
+        "in_reply_to_status_id_str": "1246470240353112065",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 2916839885,
+        "user_id_str": "2916839885",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0,
+        "conversation_id": 1245714875504041984,
+        "conversation_id_str": "1245714875504041984",
+        "conversation_muted": false,
+        "favorited": true,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1237147926830501895": {
+        "created_at": "Mon Mar 09 22:47:05 +0000 2020",
+        "id": 1237147926830501895,
+        "id_str": "1237147926830501895",
+        "full_text": "@Double_Are @Loren_tailor @EXL_Senshi @Bravo_sama @dejayooh She\u2019s the girl in the cosplay video not the tutorial",
+        "truncated": false,
+        "display_text_range": [60, 112],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "EXL_Senshi",
+            "name": "EXL SENSHI THE MASK SAMARUI(YT)",
+            "id": 934879062266470401,
+            "id_str": "934879062266470401",
+            "indices": [26, 37]
+          }, {
+            "screen_name": "Bravo_sama",
+            "name": "\u30cd\u30a4\u30b5\u30f3",
+            "id": 4408045047,
+            "id_str": "4408045047",
+            "indices": [38, 49]
+          }, {
+            "screen_name": "dejayooh",
+            "name": "\ud835\udcc5\ud835\udcca\ud835\udcc8\ud835\udcc8\ud835\udcce \ud835\udcbb\ud835\udcb6\ud835\udcbe\ud835\udcc7\ud835\udcce",
+            "id": 758629333,
+            "id_str": "758629333",
+            "indices": [50, 59]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1237121248741769216,
+        "in_reply_to_status_id_str": "1237121248741769216",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1050182327610036224,
+        "user_id_str": "1050182327610036224",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1234244685545082881,
+        "conversation_id_str": "1234244685545082881",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1303019605133275137": {
+        "created_at": "Mon Sep 07 17:17:37 +0000 2020",
+        "id": 1303019605133275137,
+        "id_str": "1303019605133275137",
+        "full_text": "@Double_Are I do. Lately it's been thoughts while running.",
+        "truncated": false,
+        "display_text_range": [12, 58],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1303017716530454528,
+        "in_reply_to_status_id_str": "1303017716530454528",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1022161088887042049,
+        "user_id_str": "1022161088887042049",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1302652161218805760,
+        "conversation_id_str": "1302652161218805760",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1238666847039492096": {
+        "created_at": "Sat Mar 14 03:22:44 +0000 2020",
+        "id": 1238666847039492096,
+        "id_str": "1238666847039492096",
+        "full_text": "@Double_Are It's fckin sick actually. I just wanna follow this twitter trend, who knows one day i will get this board \ud83d\ude02\ud83d\ude02\nhttps:\/\/t.co\/g7wroa3KB6",
+        "truncated": false,
+        "display_text_range": [12, 144],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": [{
+            "url": "https:\/\/t.co\/g7wroa3KB6",
+            "expanded_url": "https:\/\/twitter.com\/leaxcody\/status\/1203561087624531968?s=19",
+            "display_url": "twitter.com\/leaxcody\/statu\u2026",
+            "indices": [121, 144]
+          }]
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": 1238582281322688512,
+        "in_reply_to_status_id_str": "1238582281322688512",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 630022191,
+        "user_id_str": "630022191",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1203561087624531968,
+        "quoted_status_id_str": "1203561087624531968",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1173250114623692800,
+        "conversation_id_str": "1173250114623692800",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "1297630454233944064": {
+        "created_at": "Sun Aug 23 20:23:03 +0000 2020",
+        "id": 1297630454233944064,
+        "id_str": "1297630454233944064",
+        "full_text": "DCESK8 \u2665\ufe0fPhilly\nTook a weekend trip to #Philly for a day ride. \nFollow me on Instagram at @Double_Are for more content.\nhttps:\/\/t.co\/1U2FWG3JXY",
+        "truncated": false,
+        "display_text_range": [0, 143],
+        "entities": {
+          "hashtags": [{
+            "text": "Philly",
+            "indices": [39, 46]
+          }],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [90, 101]
+          }],
+          "urls": [{
+            "url": "https:\/\/t.co\/1U2FWG3JXY",
+            "expanded_url": "https:\/\/youtu.be\/_0lXLz4MhYk",
+            "display_url": "youtu.be\/_0lXLz4MhYk",
+            "indices": [120, 143]
+          }]
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 16073810,
+        "user_id_str": "16073810",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1297630454233944064,
+        "conversation_id_str": "1297630454233944064",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "card": {
+          "name": "player",
+          "url": "https:\/\/t.co\/1U2FWG3JXY",
+          "card_type_url": "http:\/\/card-type-url-is-deprecated.invalid",
+          "binding_values": {
+            "vanity_url": {
+              "type": "STRING",
+              "string_value": "youtube.com",
+              "scribe_key": "vanity_url"
+            },
+            "player_url": {
+              "type": "STRING",
+              "string_value": "https:\/\/www.youtube.com\/embed\/_0lXLz4MhYk"
+            },
+            "app_is_free": {
+              "type": "STRING",
+              "string_value": "true"
+            },
+            "app_price_currency": {
+              "type": "STRING",
+              "string_value": "USD"
+            },
+            "app_price_amount": {
+              "type": "STRING",
+              "string_value": "0.0"
+            },
+            "domain": {
+              "type": "STRING",
+              "string_value": "www.youtube.com"
+            },
+            "app_num_ratings": {
+              "type": "STRING",
+              "string_value": "16,228,000"
+            },
+            "app_star_rating": {
+              "type": "STRING",
+              "string_value": "4.70228"
+            },
+            "app_name": {
+              "type": "STRING",
+              "string_value": "YouTube: Watch, Listen, Stream"
+            },
+            "player_width": {
+              "type": "STRING",
+              "string_value": "1280"
+            },
+            "player_height": {
+              "type": "STRING",
+              "string_value": "720"
+            },
+            "site": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              },
+              "scribe_key": "publisher_id"
+            },
+            "title": {
+              "type": "STRING",
+              "string_value": "Philly: A DCESK8 Story"
+            },
+            "description": {
+              "type": "STRING",
+              "string_value": "Return to Philly to see our boy Diego off. Little do we know, Diego would be a no show. Guess we'll be surfing these streets without him. Sound off. DC! ESka..."
+            },
+            "player_image_small": {
+              "type": "IMAGE",
+              "image_value": {
+                "url": "https:\/\/pbs.twimg.com\/card_img\/1302767241050513408\/RzMnSePx?format=jpg&name=144x144",
+                "width": 144,
+                "height": 81,
+                "alt": null
+              }
+            },
+            "player_image": {
+              "type": "IMAGE",
+              "image_value": {
+                "url": "https:\/\/pbs.twimg.com\/card_img\/1302767241050513408\/RzMnSePx?format=jpg&name=280x280",
+                "width": 280,
+                "height": 158,
+                "alt": null
+              }
+            },
+            "player_image_large": {
+              "type": "IMAGE",
+              "image_value": {
+                "url": "https:\/\/pbs.twimg.com\/card_img\/1302767241050513408\/RzMnSePx?format=jpg&name=800x320_1",
+                "width": 569,
+                "height": 320,
+                "alt": null
+              }
+            },
+            "player_image_x_large": {
+              "type": "IMAGE",
+              "image_value": {
+                "url": "https:\/\/pbs.twimg.com\/card_img\/1302767241050513408\/RzMnSePx?format=png&name=2048x2048_2_exp",
+                "width": 1280,
+                "height": 720,
+                "alt": null
+              }
+            },
+            "player_image_color": {
+              "type": "IMAGE_COLOR",
+              "image_color_value": {
+                "palette": [{
+                  "percentage": 33.11,
+                  "rgb": {
+                    "red": 156,
+                    "green": 188,
+                    "blue": 221
+                  }
+                }, {
+                  "percentage": 26.14,
+                  "rgb": {
+                    "red": 82,
+                    "green": 103,
+                    "blue": 135
+                  }
+                }, {
+                  "percentage": 25.21,
+                  "rgb": {
+                    "red": 78,
+                    "green": 137,
+                    "blue": 214
+                  }
+                }, {
+                  "percentage": 8.94,
+                  "rgb": {
+                    "red": 204,
+                    "green": 187,
+                    "blue": 184
+                  }
+                }, {
+                  "percentage": 2.29,
+                  "rgb": {
+                    "red": 28,
+                    "green": 28,
+                    "blue": 42
+                  }
+                }]
+              }
+            },
+            "player_image_original": {
+              "type": "IMAGE",
+              "image_value": {
+                "url": "https:\/\/pbs.twimg.com\/card_img\/1302767241050513408\/RzMnSePx?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720,
+                "alt": null
+              }
+            },
+            "card_url": {
+              "type": "STRING",
+              "string_value": "https:\/\/t.co\/1U2FWG3JXY",
+              "scribe_key": "card_url"
+            }
+          },
+          "users": {
+            "10228272": {
+              "id": 10228272,
+              "id_str": "10228272",
+              "name": "YouTube",
+              "screen_name": "YouTube",
+              "location": "San Bruno, CA",
+              "description": "Black Lives Matter.",
+              "url": "https:\/\/www.youtube.com\/",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https:\/\/www.youtube.com\/",
+                    "expanded_url": "https:\/\/www.youtube.com\/",
+                    "display_url": "youtube.com",
+                    "indices": [0, 24]
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 72170301,
+              "friends_count": 1131,
+              "listed_count": 78730,
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "favourites_count": 4206,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 27819,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": true,
+              "profile_background_color": "AF0000",
+              "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+              "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+              "profile_background_tile": true,
+              "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1286382040321933312\/A3e99CUk_normal.png",
+              "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1286382040321933312\/A3e99CUk_normal.png",
+              "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/10228272\/1595798012",
+              "profile_link_color": "C9191D",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "can_media_tag": null,
+              "following": true,
+              "follow_request_sent": null,
+              "notifications": null,
+              "blocking": false,
+              "blocked_by": false,
+              "profile_interstitial_type": "",
+              "translator_type": "regular",
+              "followed_by": false
+            }
+          },
+          "card_platform": {
+            "platform": {
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              },
+              "audience": {
+                "name": "production",
+                "bucket": null
+              }
+            }
+          }
+        },
+        "lang": "en"
+      },
+      "1238259751689076738": {
+        "created_at": "Fri Mar 13 00:25:05 +0000 2020",
+        "id": 1238259751689076738,
+        "id_str": "1238259751689076738",
+        "full_text": "@Double_Are \ud83d\ude2e",
+        "truncated": false,
+        "display_text_range": [12, 13],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1238259420825628672,
+        "in_reply_to_status_id_str": "1238259420825628672",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 15300655,
+        "user_id_str": "15300655",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1237225810701910016,
+        "conversation_id_str": "1237225810701910016",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "1261415106857975808": {
+        "created_at": "Fri May 15 21:56:12 +0000 2020",
+        "id": 1261415106857975808,
+        "id_str": "1261415106857975808",
+        "full_text": "@Double_Are @imPatrickT @MKBHD #1 got me trippin, the random 1-3-5 from the whole 1-7 range too.",
+        "truncated": false,
+        "display_text_range": [31, 96],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "imPatrickT",
+            "name": "patrick.",
+            "id": 84256116,
+            "id_str": "84256116",
+            "indices": [12, 23]
+          }, {
+            "screen_name": "MKBHD",
+            "name": "Marques Brownlee",
+            "id": 29873662,
+            "id_str": "29873662",
+            "indices": [24, 30]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1261414601226358787,
+        "in_reply_to_status_id_str": "1261414601226358787",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1178549771604242432,
+        "user_id_str": "1178549771604242432",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0,
+        "conversation_id": 1261315329604702211,
+        "conversation_id_str": "1261315329604702211",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1286002796643352577": {
+        "created_at": "Wed Jul 22 18:18:54 +0000 2020",
+        "id": 1286002796643352577,
+        "id_str": "1286002796643352577",
+        "full_text": "@Double_Are @parent_fcps @BrianRothResist @IngrahamAngle Honestly, enforcing this is way easier with kids than adults, especially when the penalty is exile to distance learning for the year.",
+        "truncated": false,
+        "display_text_range": [57, 190],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "parent_fcps",
+            "name": "FCPS parent alliance",
+            "id": 1285779987950436354,
+            "id_str": "1285779987950436354",
+            "indices": [12, 24]
+          }, {
+            "screen_name": "BrianRothResist",
+            "name": "Brian Roth votes #BidenHarris2020 by mail",
+            "id": 1212983414694928386,
+            "id_str": "1212983414694928386",
+            "indices": [25, 41]
+          }, {
+            "screen_name": "IngrahamAngle",
+            "name": "Laura Ingraham",
+            "id": 50769180,
+            "id_str": "50769180",
+            "indices": [42, 56]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+        "in_reply_to_status_id": 1285817230769487872,
+        "in_reply_to_status_id_str": "1285817230769487872",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 68026456,
+        "user_id_str": "68026456",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1285764515150336000,
+        "conversation_id_str": "1285764515150336000",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1203561087624531968": {
+        "created_at": "Sun Dec 08 06:24:59 +0000 2019",
+        "id": 1203561087624531968,
+        "id_str": "1203561087624531968",
+        "full_text": "THIS WORKS DMDNDMSNSNDMDNSKSKSNSNSSKSJ https:\/\/t.co\/VtS8xYxsBr",
+        "truncated": false,
+        "display_text_range": [0, 38],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [{
+            "id": 1203561057383571456,
+            "id_str": "1203561057383571456",
+            "indices": [39, 62],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/ELPoZ6rXYAAnihZ.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/ELPoZ6rXYAAnihZ.jpg",
+            "url": "https:\/\/t.co\/VtS8xYxsBr",
+            "display_url": "pic.twitter.com\/VtS8xYxsBr",
+            "expanded_url": "https:\/\/twitter.com\/leaxcody\/status\/1203561087624531968\/photo\/1",
+            "type": "photo",
+            "original_info": {
+              "width": 946,
+              "height": 2048,
+              "focus_rects": [{
+                "x": 0,
+                "y": 195,
+                "h": 530,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 946,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 1078,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 1892,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 2048,
+                "w": 946
+              }]
+            },
+            "sizes": {
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [{
+                  "x": 213,
+                  "y": 368,
+                  "h": 24,
+                  "w": 24
+                }, {
+                  "x": 225,
+                  "y": 355,
+                  "h": 26,
+                  "w": 26
+                }]
+              },
+              "medium": {
+                "faces": [{
+                  "x": 375,
+                  "y": 650,
+                  "h": 43,
+                  "w": 43
+                }, {
+                  "x": 398,
+                  "y": 626,
+                  "h": 46,
+                  "w": 46
+                }]
+              },
+              "orig": {
+                "faces": [{
+                  "x": 642,
+                  "y": 1110,
+                  "h": 74,
+                  "w": 74
+                }, {
+                  "x": 680,
+                  "y": 1070,
+                  "h": 80,
+                  "w": 80
+                }]
+              },
+              "large": {
+                "faces": [{
+                  "x": 642,
+                  "y": 1110,
+                  "h": 74,
+                  "w": 74
+                }, {
+                  "x": 680,
+                  "y": 1070,
+                  "h": 80,
+                  "w": 80
+                }]
+              }
+            }
+          }]
+        },
+        "extended_entities": {
+          "media": [{
+            "id": 1203561057383571456,
+            "id_str": "1203561057383571456",
+            "indices": [39, 62],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/ELPoZ6rXYAAnihZ.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/ELPoZ6rXYAAnihZ.jpg",
+            "url": "https:\/\/t.co\/VtS8xYxsBr",
+            "display_url": "pic.twitter.com\/VtS8xYxsBr",
+            "expanded_url": "https:\/\/twitter.com\/leaxcody\/status\/1203561087624531968\/photo\/1",
+            "type": "photo",
+            "original_info": {
+              "width": 946,
+              "height": 2048,
+              "focus_rects": [{
+                "x": 0,
+                "y": 195,
+                "h": 530,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 946,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 1078,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 1892,
+                "w": 946
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 2048,
+                "w": 946
+              }]
+            },
+            "sizes": {
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [{
+                  "x": 213,
+                  "y": 368,
+                  "h": 24,
+                  "w": 24
+                }, {
+                  "x": 225,
+                  "y": 355,
+                  "h": 26,
+                  "w": 26
+                }]
+              },
+              "medium": {
+                "faces": [{
+                  "x": 375,
+                  "y": 650,
+                  "h": 43,
+                  "w": 43
+                }, {
+                  "x": 398,
+                  "y": 626,
+                  "h": 46,
+                  "w": 46
+                }]
+              },
+              "orig": {
+                "faces": [{
+                  "x": 642,
+                  "y": 1110,
+                  "h": 74,
+                  "w": 74
+                }, {
+                  "x": 680,
+                  "y": 1070,
+                  "h": 80,
+                  "w": 80
+                }]
+              },
+              "large": {
+                "faces": [{
+                  "x": 642,
+                  "y": 1110,
+                  "h": 74,
+                  "w": 74
+                }, {
+                  "x": 680,
+                  "y": 1070,
+                  "h": 80,
+                  "w": 80
+                }]
+              }
+            },
+            "ext_alt_text": null,
+            "ext_media_color": {
+              "palette": [{
+                "rgb": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255
+                },
+                "percentage": 89.98
+              }, {
+                "rgb": {
+                  "red": 53,
+                  "green": 47,
+                  "blue": 40
+                },
+                "percentage": 3.31
+              }, {
+                "rgb": {
+                  "red": 149,
+                  "green": 114,
+                  "blue": 87
+                },
+                "percentage": 2.56
+              }, {
+                "rgb": {
+                  "red": 201,
+                  "green": 223,
+                  "blue": 244
+                },
+                "percentage": 0.95
+              }, {
+                "rgb": {
+                  "red": 188,
+                  "green": 52,
+                  "blue": 37
+                },
+                "percentage": 0.86
+              }]
+            },
+            "ext_media_availability": {
+              "status": "available"
+            },
+            "ext": {
+              "mediaStats": {
+                "r": "Missing",
+                "ttl": -1
+              }
+            }
+          }, {
+            "id": 1203561057387724806,
+            "id_str": "1203561057387724806",
+            "indices": [39, 62],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/ELPoZ6sWwAYguY4.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/ELPoZ6sWwAYguY4.jpg",
+            "url": "https:\/\/t.co\/VtS8xYxsBr",
+            "display_url": "pic.twitter.com\/VtS8xYxsBr",
+            "expanded_url": "https:\/\/twitter.com\/leaxcody\/status\/1203561087624531968\/photo\/1",
+            "type": "photo",
+            "original_info": {
+              "width": 2048,
+              "height": 1152,
+              "focus_rects": [{
+                "x": 0,
+                "y": 0,
+                "h": 1147,
+                "w": 2048
+              }, {
+                "x": 499,
+                "y": 0,
+                "h": 1152,
+                "w": 1152
+              }, {
+                "x": 570,
+                "y": 0,
+                "h": 1152,
+                "w": 1011
+              }, {
+                "x": 787,
+                "y": 0,
+                "h": 1152,
+                "w": 576
+              }, {
+                "x": 0,
+                "y": 0,
+                "h": 1152,
+                "w": 2048
+              }]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": [{
+                  "x": 1616,
+                  "y": 120,
+                  "h": 192,
+                  "w": 192
+                }, {
+                  "x": 884,
+                  "y": 176,
+                  "h": 314,
+                  "w": 314
+                }, {
+                  "x": 532,
+                  "y": 158,
+                  "h": 346,
+                  "w": 346
+                }]
+              },
+              "medium": {
+                "faces": [{
+                  "x": 946,
+                  "y": 70,
+                  "h": 112,
+                  "w": 112
+                }, {
+                  "x": 517,
+                  "y": 103,
+                  "h": 183,
+                  "w": 183
+                }, {
+                  "x": 311,
+                  "y": 92,
+                  "h": 202,
+                  "w": 202
+                }]
+              },
+              "large": {
+                "faces": [{
+                  "x": 1616,
+                  "y": 120,
+                  "h": 192,
+                  "w": 192
+                }, {
+                  "x": 884,
+                  "y": 176,
+                  "h": 314,
+                  "w": 314
+                }, {
+                  "x": 532,
+                  "y": 158,
+                  "h": 346,
+                  "w": 346
+                }]
+              },
+              "small": {
+                "faces": [{
+                  "x": 536,
+                  "y": 39,
+                  "h": 63,
+                  "w": 63
+                }, {
+                  "x": 293,
+                  "y": 58,
+                  "h": 104,
+                  "w": 104
+                }, {
+                  "x": 176,
+                  "y": 52,
+                  "h": 114,
+                  "w": 114
+                }]
+              }
+            },
+            "ext_media_color": {
+              "palette": [{
+                "rgb": {
+                  "red": 161,
+                  "green": 159,
+                  "blue": 161
+                },
+                "percentage": 34.61
+              }, {
+                "rgb": {
+                  "red": 43,
+                  "green": 42,
+                  "blue": 34
+                },
+                "percentage": 16.75
+              }, {
+                "rgb": {
+                  "red": 227,
+                  "green": 64,
+                  "blue": 29
+                },
+                "percentage": 9.99
+              }, {
+                "rgb": {
+                  "red": 229,
+                  "green": 171,
+                  "blue": 124
+                },
+                "percentage": 9.47
+              }, {
+                "rgb": {
+                  "red": 30,
+                  "green": 54,
+                  "blue": 135
+                },
+                "percentage": 5.72
+              }]
+            },
+            "ext_alt_text": null,
+            "ext_media_availability": {
+              "status": "available"
+            },
+            "ext": {
+              "mediaStats": {
+                "r": "Missing",
+                "ttl": -1
+              }
+            }
+          }]
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 4807157819,
+        "user_id_str": "4807157819",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5431,
+        "favorite_count": 52083,
+        "reply_count": 4217,
+        "quote_count": 134479,
+        "conversation_id": 1203561087624531968,
+        "conversation_id_str": "1203561087624531968",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "in",
+        "self_thread": {
+          "id": 1203561087624531968,
+          "id_str": "1203561087624531968"
+        }
+      },
+      "1260013523515478017": {
+        "created_at": "Tue May 12 01:06:48 +0000 2020",
+        "id": 1260013523515478017,
+        "id_str": "1260013523515478017",
+        "full_text": "@SwiftyDashy @Double_Are @Sid_Pretends @dirt55555 @dpkeysar @WH0AMILIVINGF0R @1600vlone @dumbest_of @echolman @Grimezsz Musk is gross for a multitude of reasons. The attention seeking name is just the latest.",
+        "truncated": false,
+        "display_text_range": [120, 208],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "SwiftyDashy",
+            "name": "Madre De Dios",
+            "id": 940345278325862400,
+            "id_str": "940345278325862400",
+            "indices": [0, 12]
+          }, {
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [13, 24]
+          }, {
+            "screen_name": "Sid_Pretends",
+            "name": "squidly",
+            "id": 768254303760818176,
+            "id_str": "768254303760818176",
+            "indices": [25, 38]
+          }, {
+            "screen_name": "dpkeysar",
+            "name": "Dylan Keysar",
+            "id": 951880773497389056,
+            "id_str": "951880773497389056",
+            "indices": [50, 59]
+          }, {
+            "screen_name": "1600vlone",
+            "name": "wokeuplikethis* \u00ae",
+            "id": 930175089190035458,
+            "id_str": "930175089190035458",
+            "indices": [77, 87]
+          }, {
+            "screen_name": "dumbest_of",
+            "name": "DumbestQuotesOfTheBois",
+            "id": 1265522916248170496,
+            "id_str": "1265522916248170496",
+            "indices": [88, 99]
+          }, {
+            "screen_name": "echolman",
+            "name": "Jackie Daytona",
+            "id": 35755347,
+            "id_str": "35755347",
+            "indices": [100, 109]
+          }, {
+            "screen_name": "Grimezsz",
+            "name": "\ud80c\udff2G\u211ci\uaa94\u20d5es \ud80c\udda4\u0b90",
+            "id": 276540738,
+            "id_str": "276540738",
+            "indices": [110, 119]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": 1260009636339408896,
+        "in_reply_to_status_id_str": "1260009636339408896",
+        "in_reply_to_user_id": 940345278325862400,
+        "in_reply_to_user_id_str": "940345278325862400",
+        "in_reply_to_screen_name": "SwiftyDashy",
+        "user_id": 98798905,
+        "user_id_str": "98798905",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1257836061520101377,
+        "conversation_id_str": "1257836061520101377",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1289316079257260032": {
+        "created_at": "Fri Jul 31 21:44:42 +0000 2020",
+        "id": 1289316079257260032,
+        "id_str": "1289316079257260032",
+        "full_text": "@Much118x @Double_Are",
+        "truncated": false,
+        "display_text_range": [10, 21],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Much118x",
+            "name": "Much",
+            "id": 1040136312957927424,
+            "id_str": "1040136312957927424",
+            "indices": [0, 9]
+          }, {
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [10, 21]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": 1289246502041264129,
+        "in_reply_to_status_id_str": "1289246502041264129",
+        "in_reply_to_user_id": 1040136312957927424,
+        "in_reply_to_user_id_str": "1040136312957927424",
+        "in_reply_to_screen_name": "Much118x",
+        "user_id": 51632103,
+        "user_id_str": "51632103",
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "ed1736d76c1e007c",
+          "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/ed1736d76c1e007c.json",
+          "place_type": "city",
+          "name": "Starkville",
+          "full_name": "Starkville, MS",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-88.866974, 33.406706],
+                [-88.866974, 33.506302],
+                [-88.776403, 33.506302],
+                [-88.776403, 33.406706]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1289246502041264129,
+        "conversation_id_str": "1289246502041264129",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "1239325262145359874": {
+        "created_at": "Sun Mar 15 22:59:02 +0000 2020",
+        "id": 1239325262145359874,
+        "id_str": "1239325262145359874",
+        "full_text": "@Double_Are wife\u2019s parents paid the bill \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+        "truncated": false,
+        "display_text_range": [12, 46],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003eTweetbot for i\u039fS\u003c\/a\u003e",
+        "in_reply_to_status_id": 1239317928866127873,
+        "in_reply_to_status_id_str": "1239317928866127873",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 19047593,
+        "user_id_str": "19047593",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1238531208172179458,
+        "conversation_id_str": "1238531208172179458",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1260048248300953601": {
+        "created_at": "Tue May 12 03:24:47 +0000 2020",
+        "id": 1260048248300953601,
+        "id_str": "1260048248300953601",
+        "full_text": "@SwiftyDashy @Double_Are @Sid_Pretends @drunkleJ @dpkeysar @WH0AMILIVINGF0R @1600vlone @dumbest_of @echolman @Grimezsz well actually they kind of are. kids get made fun of more much less ridiculous names than X \u00c6 A-12",
+        "truncated": false,
+        "display_text_range": [119, 217],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "SwiftyDashy",
+            "name": "Madre De Dios",
+            "id": 940345278325862400,
+            "id_str": "940345278325862400",
+            "indices": [0, 12]
+          }, {
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [13, 24]
+          }, {
+            "screen_name": "Sid_Pretends",
+            "name": "squidly",
+            "id": 768254303760818176,
+            "id_str": "768254303760818176",
+            "indices": [25, 38]
+          }, {
+            "screen_name": "drunkleJ",
+            "name": "I love you",
+            "id": 98798905,
+            "id_str": "98798905",
+            "indices": [39, 48]
+          }, {
+            "screen_name": "dpkeysar",
+            "name": "Dylan Keysar",
+            "id": 951880773497389056,
+            "id_str": "951880773497389056",
+            "indices": [49, 58]
+          }, {
+            "screen_name": "1600vlone",
+            "name": "wokeuplikethis* \u00ae",
+            "id": 930175089190035458,
+            "id_str": "930175089190035458",
+            "indices": [76, 86]
+          }, {
+            "screen_name": "dumbest_of",
+            "name": "DumbestQuotesOfTheBois",
+            "id": 1265522916248170496,
+            "id_str": "1265522916248170496",
+            "indices": [87, 98]
+          }, {
+            "screen_name": "echolman",
+            "name": "Jackie Daytona",
+            "id": 35755347,
+            "id_str": "35755347",
+            "indices": [99, 108]
+          }, {
+            "screen_name": "Grimezsz",
+            "name": "\ud80c\udff2G\u211ci\uaa94\u20d5es \ud80c\udda4\u0b90",
+            "id": 276540738,
+            "id_str": "276540738",
+            "indices": [109, 118]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1260009636339408896,
+        "in_reply_to_status_id_str": "1260009636339408896",
+        "in_reply_to_user_id": 940345278325862400,
+        "in_reply_to_user_id_str": "940345278325862400",
+        "in_reply_to_screen_name": "SwiftyDashy",
+        "user_id": 1198088747750838272,
+        "user_id_str": "1198088747750838272",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1257836061520101377,
+        "conversation_id_str": "1257836061520101377",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1269113280963833857": {
+        "created_at": "Sat Jun 06 03:45:59 +0000 2020",
+        "id": 1269113280963833857,
+        "id_str": "1269113280963833857",
+        "full_text": "@Double_Are I went to school with her here in Glendale, CA back in the early 2000s. He was consistently involved with the school. Just trying to chip in some insight cos he definitely doesn\u2019t deserve to have his name trending like this, that\u2019s all.",
+        "truncated": false,
+        "display_text_range": [12, 248],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1269112599255420931,
+        "in_reply_to_status_id_str": "1269112599255420931",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1221572875221520384,
+        "user_id_str": "1221572875221520384",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0,
+        "conversation_id": 1269111478558195712,
+        "conversation_id_str": "1269111478558195712",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1246472683895656448": {
+        "created_at": "Sat Apr 04 16:20:20 +0000 2020",
+        "id": 1246472683895656448,
+        "id_str": "1246472683895656448",
+        "full_text": "@Double_Are @brad_kalla @vinaysharma1996 @Hubbard76499906 @ConsLegras @givememybagnow @JosmerSuero @djfuelbass @Tom_Thomas_97 @MKBHD @oppo @htc @Xiaomi @Apple The product hasn't been sold in massive numbers to point out to QC issues",
+        "truncated": false,
+        "display_text_range": [159, 232],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }, {
+            "screen_name": "brad_kalla",
+            "name": "Brad Kalla",
+            "id": 968292080865878016,
+            "id_str": "968292080865878016",
+            "indices": [12, 23]
+          }, {
+            "screen_name": "vinaysharma1996",
+            "name": "Vinay Sharma",
+            "id": 2916839885,
+            "id_str": "2916839885",
+            "indices": [24, 40]
+          }, {
+            "screen_name": "ConsLegras",
+            "name": "Zeeico",
+            "id": 3368842761,
+            "id_str": "3368842761",
+            "indices": [58, 69]
+          }, {
+            "screen_name": "givememybagnow",
+            "name": "guess who",
+            "id": 1147157930631991298,
+            "id_str": "1147157930631991298",
+            "indices": [70, 85]
+          }, {
+            "screen_name": "djfuelbass",
+            "name": "DJ FUELBASS",
+            "id": 2936203358,
+            "id_str": "2936203358",
+            "indices": [99, 110]
+          }, {
+            "screen_name": "Tom_Thomas_97",
+            "name": "Tom Thomas",
+            "id": 4317476653,
+            "id_str": "4317476653",
+            "indices": [111, 125]
+          }, {
+            "screen_name": "MKBHD",
+            "name": "Marques Brownlee",
+            "id": 29873662,
+            "id_str": "29873662",
+            "indices": [126, 132]
+          }, {
+            "screen_name": "oppo",
+            "name": "OPPO",
+            "id": 960653964,
+            "id_str": "960653964",
+            "indices": [133, 138]
+          }, {
+            "screen_name": "htc",
+            "name": "HTC",
+            "id": 15818391,
+            "id_str": "15818391",
+            "indices": [139, 143]
+          }, {
+            "screen_name": "Xiaomi",
+            "name": "Xiaomi",
+            "id": 377228272,
+            "id_str": "377228272",
+            "indices": [144, 151]
+          }, {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [152, 158]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1246470240353112065,
+        "in_reply_to_status_id_str": "1246470240353112065",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 1009736665538203648,
+        "user_id_str": "1009736665538203648",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0,
+        "conversation_id": 1245714875504041984,
+        "conversation_id_str": "1245714875504041984",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1298796630905442309": {
+        "created_at": "Thu Aug 27 01:37:01 +0000 2020",
+        "id": 1298796630905442309,
+        "id_str": "1298796630905442309",
+        "full_text": "@Double_Are \u2665\ufe0f you already know",
+        "truncated": false,
+        "display_text_range": [12, 31],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1297631370211188738,
+        "in_reply_to_status_id_str": "1297631370211188738",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 724121768,
+        "user_id_str": "724121768",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1297631370211188738,
+        "conversation_id_str": "1297631370211188738",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "1283969944842100738": {
+        "created_at": "Fri Jul 17 03:41:04 +0000 2020",
+        "id": 1283969944842100738,
+        "id_str": "1283969944842100738",
+        "full_text": "@Double_Are I\u2019m seeing them on OWN. Not sure about anywhere else, lol.",
+        "truncated": false,
+        "display_text_range": [12, 70],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [{
+            "screen_name": "Double_Are",
+            "name": "Darrius Taylor",
+            "id": 16073810,
+            "id_str": "16073810",
+            "indices": [0, 11]
+          }],
+          "urls": []
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": 1283969656768868354,
+        "in_reply_to_status_id_str": "1283969656768868354",
+        "in_reply_to_user_id": 16073810,
+        "in_reply_to_user_id_str": "16073810",
+        "in_reply_to_screen_name": "Double_Are",
+        "user_id": 18020246,
+        "user_id_str": "18020246",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 1283969045566562305,
+        "conversation_id_str": "1283969045566562305",
+        "conversation_muted": false,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      }
+    }
+  }
+}
