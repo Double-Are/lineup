@@ -187,9 +187,9 @@ export default {
 </script>
 
 <style lang="scss">
-@import "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css";
-@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
-@import 'https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css';
+@import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css");
+@import url('https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css');
 body {
   overflow: hidden;
 }
